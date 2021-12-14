@@ -1,8 +1,11 @@
 # about-me
 Ariana Salinas Salazar 
-email: arianas4499@hstat.org
-School: High School Of Telecommunication Arts and Technology 
-Bio: I'm 15 years old. A sophmore at Tele. 
+email: 
+arianas4499@hstat.org
+School: 
+High School Of Telecommunication Arts and Technology 
+Bio: 
+I'm 15 years old. A sophmore at Tele. 
 Schedule: 
 1. English
 2. Algebra II
