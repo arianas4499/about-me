@@ -1,7 +1,7 @@
 # about-me
 ## Ariana Salinas Salazar 
 
-##### _Email: arianas4499@hstat.org_
+##### _Email: arianas4499@hstat.org_  
 
 ##### School: 
 ##### **[High School Of Telecommunication Arts and Technology!](https://www.hstat.org)**
