@@ -24,10 +24,15 @@ Schedule:
 What I like to do on my free time:
 <ul>
 <li>Go outside</li>
-  <li>Go for walks</li>
+<li>Go for walks</li>
 <li>hangout with friends</li>
 <li>Watch a movie</li>
 <li>Sleep</li>
+  <ul>
+  <li>Spend time with family</li>
+  <li>Play with my cat and guinea pig</li>
+  </ul>
+ </li>
 </ul>
 
 
