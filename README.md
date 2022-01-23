@@ -21,5 +21,13 @@ Schedule:
 <li>Global History</li>
 </ol>
 
+What I like to do on my free time:
+<ul>
+<li>Go outside</li>
+  <li>Go for walks</li>
+<li>hangout with friends</li>
+<li>Watch a movie</li>
+<li>Sleep</li>
+</ul>
 
 
