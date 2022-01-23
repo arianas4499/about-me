@@ -4,7 +4,7 @@
 ##### _Email: arianas4499@hstat.org_
 
 ##### School: 
-##### [High School Of Telecommunication Arts and Technology!](https://www.hstat.org)__ 
+##### **[High School Of Telecommunication Arts and Technology!](https://www.hstat.org)**
 
 ##### Bio: 
 ##### I'm 15 years old. A sophmore at Tele. 
