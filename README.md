@@ -10,13 +10,16 @@
 ##### I'm 15 years old. A sophmore at Tele. 
 
 Schedule: 
-1. English
-2. Algebra II
-3. Chemistry
-4. Psychology
-5. Lunch
-6. Software engineering
-7. Yoga
-8. Global History 
+<ol>
+<li>English</li>
+<li>Algebra II</li>
+<li>Chemistry</li>
+<li>Psychology</li>
+<li>Lunch</li>
+<li>Software engineering</li>
+<li>Yoga</li>
+<li>Global History</li>
+</ol>
+
 
 
